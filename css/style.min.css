@@ -1,7 +1,4 @@
-/*
- * Roxy: Bootstrap template by GettTemplates.com
- * https://gettemplates.co/roxy
- */
+
 html, body {
   width: 100%;
   overflow-x: hidden; }
@@ -94,9 +91,9 @@ section {
   line-height: .9;
   font-weight: bold;
   display: inline-block;
-  border: 6px solid #fff;
+  /* border: 6px solid #fff; */
   padding: 11px;
-  font-size: 2rem;
+  font-size: 1.8rem;
   opacity: 0;
   animation: 1s fadeInFromTop cubic-bezier(0.785, 0.135, 0.15, 0.86) 1s forwards;
   animation-delay: .8s;
